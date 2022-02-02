@@ -5,16 +5,17 @@ arma2 = "Arco"
 #Ahora tienes que asignarle un número a las características del arma.
 #En la línea 8 escribe un número float entre 0.0 y 10.0 que represente el daño de la espada.
 #Guarda ese número en la variable dañoEspada.
-
+dañoEspada = 5/5
 #En la línea 11 escribe un número int entre 1 y 10 que represente la resistencia de la espada.
 #Guarda ese número en la variable resistenciaEspada.
-
+resistenciaEspada = 10
 #En la línea 14 escribe un número float entre 0.0 y 10.0 que represente el daño del arco.
 #Guarda ese número en la variable dañoArco.
+dañoArco = 5.5
 
 #En la línea 17 escribe un número int entre 1 y 10 que represente la resistencia del arco.
 #Guarda ese número en la variable resitenciaArco.
-
+resistenciaArco = 8
 #Corre el código. Debería imprimir las armas y sus características.
 print("Arma 1: " + arma1)
 print("Daño:", dañoEspada)
