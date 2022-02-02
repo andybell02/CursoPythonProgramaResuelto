@@ -8,9 +8,9 @@
 #Guarda ese nombre en la variable lugarEnQueNosConocimos
 
 #Corre el código. Debería imprimir tu nombre, el de tu mejor amigo y el lugar en que se conocieron.
-print("Mi nombre es:")
+miNonmbre = andrea
 print(miNombre)
-print("Mi mejor amigo es:")
+miMejorAmigo = gatos
 print(miMejorAmigo)
-print("Nos conocimos en:")
+lugarEnQueNosConocimos = alemania 
 print(lugarEnQueNosConocimos)
